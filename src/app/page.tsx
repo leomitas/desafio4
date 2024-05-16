@@ -15,7 +15,7 @@ export default function Home() {
       <h3 className='font-bold text-xl text-blue-700'>Leonardo Abreu</h3>
       <div className='bg-white w-max p-2 rounded-sm'>
         <a
-          href='https://github.com/leomitas/desafio5'
+          href='https://github.com/leomitas/desafio4'
           target='_blank'
           className='flex gap-2 items-center'
         >
